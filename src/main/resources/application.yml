@@ -1,0 +1,19 @@
+server:
+  port: 8083
+spring:
+  config:
+    location: currentdir/config
+  pid:
+    file: application.pid
+  jpa:
+    database: mysql
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    properties:
+      hibernate:
+        format_sql: true
+        show_sql: true
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
