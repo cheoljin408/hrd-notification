@@ -31,3 +31,8 @@ kosa-dktechin 개발자 양성 교육과정중에 출결관리를 하기 위해 
 - Naver Cloud Platform(NCP)
   - Simple & Easy Notification Service
 - MySQL
+
+<br/>
+
+### 더 자세한 프로젝트 글 보기
+[네이버 클라우드 플랫폼 SMS API 사용해보기(NCP-Simple & Easy Notification Service)](https://burpeekim.tistory.com/10)
