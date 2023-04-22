@@ -15,7 +15,7 @@ kosa-dktechin 개발자 양성 교육과정중에 출결관리를 하기 위해 
 ## 프로젝트 기능
 데이터베이스에 등록된 사용자에게 주중 오후 5시 50분(hrd-net 퇴실 인정 시간)에 퇴실 알림 SMS를 전송한다.
 
-![SMS 알림 결과](https://user-images.githubusercontent.com/52393564/233763921-8a3d9cf1-202a-4545-8788-a6097e0777ea.PNG)
+![SMS 알림 결과](https://user-images.githubusercontent.com/52393564/233763921-8a3d9cf1-202a-4545-8788-a6097e0777ea.PNG){: width="100"}
 ![서버 로그](https://user-images.githubusercontent.com/52393564/233793547-71ca8551-eb4d-46db-b09a-b421d3c7298f.png)
 
 ## 사용한 기술
